@@ -24,7 +24,7 @@ bool bandingkan(const string& A, const string& B) {
 
 
 int main() {
-	string daerah[] = { "1.Jakarta", "2.Malang", "3.Surabaya", "4.Bandung", "5.Garut", "6.Depok", "7.Tangerang" };
+	string daerah[] = { "1.Jakarta", "2.Malang", "3.Surabaya", "4.Bandung", "5.Garut", "6.Depok", "5.Tangerang" };
 
 	int jumlah = sizeof(daerah) / sizeof(daerah[0]);
 
